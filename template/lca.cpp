@@ -45,7 +45,6 @@ int lca_query(int u, int v) {
 		}
 	}
 	return fa[u][0];
-
 }
 
 int main() {
